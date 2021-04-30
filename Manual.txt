@@ -1,0 +1,6 @@
+#Please run GUI.ipynb using coogle colab
+#when you ran  last block of the code, it will generate 3 links.
+#click on the second one. (the link that contains ngrok.io
+#The GUI is launched!
+#Now, in the first field enter your pharagraph or a text. and in the second field enter you question.
+#Press predict button and get your answer
